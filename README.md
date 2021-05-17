@@ -69,4 +69,8 @@ class ID_viewmodel : INotifyPropertyChanged
 	}
 }
 ```
+After this all, you will need to Data Binding with the control.  
+```C#
+   <TextBox x:Name="textBox1" HorizontalAlignment="Left" Height="23" Margin="137,42,0,0" TextWrapping="Wrap" Text="{Binding Student_ID, UpdateSourceTrigger=PropertyChanged}" VerticalAlignment="Top" Width="120"/>
+```
 And then, this is the simple WPF MVVM. Learning~
