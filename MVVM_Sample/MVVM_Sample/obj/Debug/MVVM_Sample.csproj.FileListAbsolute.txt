@@ -12,3 +12,6 @@ K:\KAI\Side project\C#\MVVM_Sample\MVVM_Sample\obj\Debug\MVVM_Sample.Properties.
 K:\KAI\Side project\C#\MVVM_Sample\MVVM_Sample\obj\Debug\MVVM_Sample.csproj.GenerateResource.Cache
 K:\KAI\Side project\C#\MVVM_Sample\MVVM_Sample\obj\Debug\MVVM_Sample.exe
 K:\KAI\Side project\C#\MVVM_Sample\MVVM_Sample\obj\Debug\MVVM_Sample.pdb
+K:\Github\Simple-WPF-MVVM\MVVM_Sample\MVVM_Sample\bin\Debug\MVVM_Sample.exe.config
+K:\Github\Simple-WPF-MVVM\MVVM_Sample\MVVM_Sample\obj\Debug\MVVM_Sample.exe
+K:\Github\Simple-WPF-MVVM\MVVM_Sample\MVVM_Sample\obj\Debug\MVVM_Sample.pdb
